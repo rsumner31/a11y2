@@ -75,3 +75,4 @@ test.cb('test local input generates a report that includes all failures for a gi
         t.end();
     });
 });
+
