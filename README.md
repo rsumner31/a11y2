@@ -169,6 +169,10 @@ We are actively working on exploring support for complex web-applications, inclu
 
 We are actively working on exploring support for complex web-applications, including those using JavaScript libraries such as Polymer, Angular and React/Flux. We hope to bring this work to the main master branch once it is considered stable.
 
+## Status
+
+At this time, this module should be relatively reliable when auditing for accessibility issues in static sites. 
+
 
 ## License
 
